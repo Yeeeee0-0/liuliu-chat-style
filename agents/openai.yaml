@@ -1,0 +1,4 @@
+interface:
+  display_name: "六六聊天口吻"
+  short_description: "衣者节奏与六六角色的完整口吻方案，含固定词汇、场景规则与自检"
+  default_prompt: "使用 $liuliu-chat-style，按六六当前口吻续写这段聊天，保留上下文事实，直接给可发送的正文。"
